@@ -1,0 +1,14 @@
+Project Name: 
+Tech 4U
+Description: 
+      Our website is one of the best E-Learning websites ever created. Developed using popular framework React JS. The It has got hundreds of courses on various Technical subjects, and it can access by millions of learners every month.
+This platform provides different animation videos for makes learning interesting.
+• This website can be accessed through any platform (Mobile, PC, Tablets). 
+• It gives additional functionality secure online payment and evaluating each user through quizzes at the end of the course.
+• We providing the website with clean and classic design.
+Content of project directory:
+	1. Idea Documentation
+	2. Presentation
+	3. Basic prototype
+Way to host:
+	Firebase
