@@ -1,0 +1,11 @@
+Project Name: National Medical Records Database Management
+Team Name : Open Source Bandits
+
+Project Description :
+
+National Medical Records Database Management System is our theoretical concept which can deploy such a patient management solution for the entire nation that is Aadhaar enabled. It’s a web based portal with exclusive access to authorized health institutions across India with the advantage of sharing health records between hospitals on request by patient avoiding queues to fill up forms of health history. Also, handy when emergency accident victims are admitted to know their previous health records that's vital for treatment.
+
+Contents of Project Directory:
+
+Project Presentation PPT (Open Source Bandits.pptx)
+Project Documentation (Open Source Bandits.txt)
