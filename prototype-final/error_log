@@ -1,0 +1,93 @@
+[04-Nov-2020 07:24:32 UTC] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[04-Nov-2020 07:24:32 UTC] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[04-Nov-2020 08:46:08 UTC] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[04-Nov-2020 08:46:08 UTC] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 08:27:00 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 08:27:00 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 3
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 43
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 43
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 45
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 49
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 65
+[05-Nov-2020 11:02:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 66
+[05-Nov-2020 15:42:05 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 15:42:05 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 15:42:13 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 15:42:13 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 16:10:54 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 16:10:54 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 16:36:51 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 16:36:51 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 17:31:25 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 17:31:25 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 17:38:38 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 17:38:38 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 17:50:33 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 17:50:33 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 17:50:33 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 17:50:33 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 18:33:26 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 98
+[05-Nov-2020 18:33:26 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 123
+[05-Nov-2020 18:33:26 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 155
+[05-Nov-2020 18:33:26 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 158
+[05-Nov-2020 21:00:48 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/project/c-tracker/customer.php on line 165
+[05-Nov-2020 21:00:48 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/project/c-tracker/customer.php on line 245
+[05-Nov-2020 21:28:48 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 21:28:48 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 21:29:27 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 21:29:27 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 21:41:06 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 21:41:06 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 22:43:45 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 22:43:45 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 22:47:07 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 22:47:07 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 23:05:52 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 23:05:52 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 23:09:33 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 23:09:33 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 23:31:59 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 23:31:59 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 23:36:05 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 23:36:05 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[05-Nov-2020 23:39:33 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[05-Nov-2020 23:39:33 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 245
+[06-Nov-2020 21:09:38 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[06-Nov-2020 21:09:38 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[07-Nov-2020 07:25:42 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[07-Nov-2020 07:25:42 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[07-Nov-2020 14:02:24 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[07-Nov-2020 14:02:24 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[07-Nov-2020 14:02:35 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 98
+[07-Nov-2020 14:02:35 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 123
+[07-Nov-2020 14:02:35 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 159
+[07-Nov-2020 14:02:35 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 162
+[10-Nov-2020 22:37:07 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[10-Nov-2020 22:37:08 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[12-Nov-2020 12:02:28 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[12-Nov-2020 12:02:28 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[12-Nov-2020 12:56:25 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[12-Nov-2020 12:56:25 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[12-Nov-2020 14:41:03 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[12-Nov-2020 14:41:03 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[12-Nov-2020 20:48:20 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[12-Nov-2020 20:48:20 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[15-Nov-2020 21:58:22 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[15-Nov-2020 21:58:22 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
+[22-Nov-2020 21:38:31 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 98
+[22-Nov-2020 21:38:31 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 123
+[22-Nov-2020 21:38:31 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 159
+[22-Nov-2020 21:38:31 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 162
+[22-Nov-2020 22:04:12 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 28
+[22-Nov-2020 22:04:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 43
+[22-Nov-2020 22:04:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 49
+[22-Nov-2020 22:04:13 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 28
+[22-Nov-2020 22:04:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 43
+[22-Nov-2020 22:04:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/fetch.php on line 49
+[23-Nov-2020 11:22:27 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 98
+[23-Nov-2020 11:22:27 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 123
+[23-Nov-2020 11:22:27 Asia/Kolkata] PHP Notice:  Undefined index: shopnames in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 159
+[23-Nov-2020 11:22:27 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/shopmain.php on line 162
+[23-Nov-2020 12:01:43 Asia/Kolkata] PHP Notice:  Undefined index: mobile in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 165
+[23-Nov-2020 12:01:43 Asia/Kolkata] PHP Notice:  Undefined index: firstName in /home/ovslfkhj82ch/public_html/hackathon/c-tracker/customer.php on line 246
