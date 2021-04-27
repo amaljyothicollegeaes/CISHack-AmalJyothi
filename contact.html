@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="utf-8">
+    <title>Healthify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/style1.css">
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+    <!-- Fontawesome CSS -->
+    <link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css">
+
+    <!-- Datetimepicker CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap-datetimepicker.min.css">
+
+    <!-- Select2 CSS -->
+    <link rel="stylesheet" href="assets/plugins/select2/css/select2.min.css">
+
+    <!-- Fancybox CSS -->
+    <link rel="stylesheet" href="assets/plugins/fancybox/jquery.fancybox.min.css">
+
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+			<script src="assets/js/html5shiv.min.js"></script>
+			<script src="assets/js/respond.min.js"></script>
+		<![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Main Wrapper -->
+    <div class="main-wrapper">
+
+        <!-- Header -->
+        <header class="header">
+            <nav class="navbar navbar-expand-lg header-nav">
+                <div class="navbar-header">
+                    <a id="mobile_btn" href="javascript:void(0);">
+                        <span class="bar-icon">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                    </a>
+                    <a href="index.html" class="navbar-brand logo">
+                        <img src="assets/img/logo.png" class="img-fluid" alt="Logo">
+                    </a>
+                </div>
+                <div class="main-menu-wrapper">
+                    <div class="menu-header">
+                        <a href="index.html" class="menu-logo">
+                            <img src="assets/img/logo.png" class="img-fluid" alt="Logo">
+                        </a>
+                        <a id="menu_close" class="menu-close" href="javascript:void(0);">
+                            <i class="fas fa-times"></i>
+                        </a>
+                    </div>
+                    <ul class="main-nav">
+                        <li>
+                            <a href="index.html">Home</a>
+                        </li>
+                        <li class="has-submenu">
+                            <a href="#">Doctors <i class="fas fa-chevron-down"></i></a>
+                            <ul class="submenu">
+                                <li><a href="doctor-dashboard.html">Doctor Dashboard</a></li>
+                                <li><a href="appointments.html">Appointments</a></li>
+                                <li><a href="schedule-timings.html">Schedule Timing</a></li>
+                                <li><a href="my-patients.html">Patients List</a></li>
+                                <li><a href="patient-profile.html">Patients Profile</a></li>
+                                <li><a href="chat-doctor.html">Chat</a></li>
+                                <li><a href="invoices.html">Invoices</a></li>
+                                <li><a href="doctor-profile-settings.html">Profile Settings</a></li>
+                                <li><a href="reviews.html">Reviews</a></li>
+                                <li><a href="doctor-register.html">Doctor Register</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-submenu active">
+                            <a href="#">Patients <i class="fas fa-chevron-down"></i></a>
+                            <ul class="submenu">
+                                <li class="active"><a href="search.html">Search Doctor</a></li>
+                                <li><a href="doctor-profile.html">Doctor Profile</a></li>
+                                <li><a href="booking.html">Booking</a></li>
+                                <li><a href="checkout.html">Checkout</a></li>
+                                <li><a href="booking-success.html">Booking Success</a></li>
+                                <li><a href="patient-dashboard.html">Patient Dashboard</a></li>
+                                <li><a href="favourites.html">Favourites</a></li>
+                                <li><a href="chat.html">Chat</a></li>
+                                <li><a href="profile-settings.html">Profile Settings</a></li>
+                                <li><a href="change-password.html">Change Password</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-submenu">
+                            <a href="#">Pages <i class="fas fa-chevron-down"></i></a>
+                            <ul class="submenu">
+                                <li><a href="voice-call.html">Voice Call</a></li>
+                                <li><a href="video-call.html">Video Call</a></li>
+                                <li><a href="search.html">Search Doctors</a></li>
+                                <li><a href="calendar.html">Calendar</a></li>
+                                <li><a href="components.html">Components</a></li>
+                                <li class="has-submenu">
+                                    <a href="invoices.html">Invoices</a>
+                                    <ul class="submenu">
+                                        <li><a href="invoices.html">Invoices</a></li>
+                                        <li><a href="invoice-view.html">Invoice View</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="blank-page.html">Starter Page</a></li>
+                                <li><a href="login.html">Login</a></li>
+                                <li><a href="register.html">Register</a></li>
+                                <li><a href="forgot-password.html">Forgot Password</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="admin/index.html" target="_blank">Admin</a>
+                        </li>
+                        <li class="login-link">
+                            <a href="login.html">Login / Signup</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="nav header-navbar-rht">
+                    <li class="nav-item contact-item">
+                        <div class="header-contact-img">
+                            <i class="far fa-hospital"></i>
+                        </div>
+                        <div class="header-contact-detail">
+                            <a href="contact.html">
+                                <p class="contact-header">Contact</p>
+                                <p class="contact-info-header"> +91 9999 9999 99</p>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link header-login" href="login.html">login / Signup </a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <!-- /Header -->
+
+        <main id="main">
+
+            <!-- ======= Contact Section ======= -->
+            <section class="breadcrumbs">
+                <div class="container">
+
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h2>Contact</h2>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li>Contact</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </section><!-- End Contact Section -->
+
+            <!-- ======= Contact Section ======= -->
+            <section class="contact" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-lg-6">
+
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="info-box">
+                                        <i class="bx bx-map"></i>
+                                        <h3>Our Address</h3>
+                                        <p>DC 26
+                                            KL 05
+                                            KOTTAYAM </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="info-box">
+                                        <i class="bx bx-envelope"></i>
+                                        <h3>Email Us</h3>
+                                        <p>healthify@example.com</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="info-box">
+                                        <i class="bx bx-phone-call"></i>
+                                        <h3>Call Us</h3>
+                                        <p>+91 9999 9999 99</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-6">
+                            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                                <div class="row">
+                                    <div class="col-md-6 form-group">
+                                        <input type="text" name="name" class="form-control" id="name"
+                                            placeholder="Your Name" required>
+                                    </div>
+                                    <div class="col-md-6 form-group mt-3 mt-md-0">
+                                        <input type="email" class="form-control" name="email" id="email"
+                                            placeholder="Your Email" required>
+                                    </div>
+                                </div>
+                                <div class="form-group mt-3">
+                                    <input type="text" class="form-control" name="subject" id="subject"
+                                        placeholder="Subject" required>
+                                </div>
+                                <div class="form-group mt-3">
+                                    <textarea class="form-control" name="message" rows="5" placeholder="Message"
+                                        required></textarea>
+                                </div>
+                                <div class="my-3">
+                                    <div class="loading">Loading</div>
+                                    <div class="error-message"></div>
+                                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                                </div>
+                                <div class="text-center"><button type="submit">Send Message</button></div>
+                            </form>
+                        </div>
+
+                    </div>
+
+                </div>
+            </section><!-- End Contact Section -->
+
+            <!-- ======= Map Section ======= -->
+            <section class="map mt-2">
+                <div class="container-fluid p-0">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d62944.11946824107!2d76.485573!3d9.594624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b062ba189ac1fd7%3A0x73cfc62ce129055e!2sKSRTC%20Bus%20Station%20Kottayam!5e0!3m2!1sen!2sin!4v1619456155285!5m2!1sen!2sin"
+                        frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                </div>
+            </section><!-- End Map Section -->
+
+        </main><!-- End #main -->
+
+        <!-- ======= Footer ======= -->
+        <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+
+            <div class="footer-newsletter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <h4>Subscribe to Updates via Email</h4>
+                            <p>Enter your email address to subscribe to this site and receive notifications regarding
+                                healthcare by
+                                email.</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <form action="#" method="post">
+                                <input type="email" name="email" placeholder="Enter your email address"><input
+                                    type="submit" value="Subscribe">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Footer -->
+            <footer class="footer">
+
+                <!-- Footer Top -->
+                <div class="footer-top">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-6">
+
+                                <!-- Footer Widget -->
+                                <div class="footer-widget footer-about">
+                                    <div class="footer-logo">
+                                        <a href="index.html" class="navbar-brand logo">
+                                            <img src="assets/img/footer-logo.png" class="img-fluid" alt="Logo">
+                                        </a>
+                                    </div>
+                                    <div class="footer-about-content">
+                                        <p>Created by a group of students, with the aim of making society consisting of
+                                            healthier
+                                            individuals</p>
+                                        <div class="social-icon">
+                                            <ul>
+                                                <li>
+                                                    <a href="#" target="_blank"><i class="fab fa-facebook-f"></i> </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#" target="_blank"><i class="fab fa-twitter"></i> </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#" target="_blank"><i class="fab fa-dribbble"></i> </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /Footer Widget -->
+
+                            </div>
+
+                            <div class="col-lg-3 col-md-6">
+
+                                <!-- Footer Widget -->
+                                <div class="footer-widget footer-menu">
+                                    <h2 class="footer-title">For Patients</h2>
+                                    <ul>
+                                        <li><a href="search.html"><i class="fas fa-angle-double-right"></i> Search for
+                                                Doctors</a></li>
+                                        <li><a href="login.html"><i class="fas fa-angle-double-right"></i> Login</a>
+                                        </li>
+                                        <li><a href="register.html"><i class="fas fa-angle-double-right"></i>
+                                                Register</a>
+                                        </li>
+                                        <li><a href="booking.html"><i class="fas fa-angle-double-right"></i> Booking</a>
+                                        </li>
+                                        <li><a href="patient-dashboard.html"><i class="fas fa-angle-double-right"></i>
+                                                Patient Dashboard</a></li>
+                                    </ul>
+                                </div>
+                                <!-- /Footer Widget -->
+
+                            </div>
+
+                            <div class="col-lg-3 col-md-6">
+
+                                <!-- Footer Widget -->
+                                <div class="footer-widget footer-menu">
+                                    <h2 class="footer-title">For Doctors</h2>
+                                    <ul>
+                                        <li><a href="appointments.html"><i class="fas fa-angle-double-right"></i>
+                                                Appointments</a></li>
+                                        <li><a href="chat.html"><i class="fas fa-angle-double-right"></i> Chat</a></li>
+                                        <li><a href="login.html"><i class="fas fa-angle-double-right"></i> Login</a>
+                                        </li>
+                                        <li><a href="doctor-register.html"><i class="fas fa-angle-double-right"></i>
+                                                Register</a></li>
+                                        <li><a href="doctor-dashboard.html"><i class="fas fa-angle-double-right"></i>
+                                                Doctor
+                                                Dashboard</a></li>
+                                    </ul>
+                                </div>
+                                <!-- /Footer Widget -->
+
+                            </div>
+
+                            <div class="col-lg-3 col-md-6">
+
+                                <!-- Footer Widget -->
+                                <div class="footer-widget footer-contact">
+                                    <h2 class="footer-title">Contact Us</h2>
+                                    <div class="footer-contact-info">
+                                        <div class="footer-address">
+                                            <span><i class="fas fa-map-marker-alt"></i></span>
+                                            <p> DC 26 <br>
+                                                KL 05<br>
+                                                KOTTAYAM
+                                            </p>
+                                        </div>
+                                        <p>
+                                            <i class="fas fa-phone-alt"></i>
+                                            +91 9999 9999 99
+                                        </p>
+                                        <p class="mb-0">
+                                            <i class="fas fa-envelope"></i>
+                                            healthify@example.com
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- /Footer Widget -->
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- /Footer Top -->
+
+                <!-- Footer Bottom -->
+                <div class="footer-bottom">
+                    <div class="container-fluid">
+
+                        <!-- Copyright -->
+                        <div class="copyright">
+                            <div class="row">
+                                <div class="col-md-6 col-lg-6">
+
+                                </div>
+                                <div class="col-md-6 col-lg-6">
+
+                                    <!-- Copyright Menu -->
+                                    <div class="copyright-menu">
+                                        <ul class="policy-menu">
+
+                                            <li><a
+                                                    href="https://www.privacypolicies.com/live/c9b13034-9bc8-4e4d-80c9-db7d72061ab0">Policy</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <!-- /Copyright Menu -->
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Copyright -->
+
+                    </div>
+                </div>
+                <!-- /Footer Bottom -->
+
+            </footer>
+            <!-- /Footer -->
+
+    </div>
+    <!-- /Main Wrapper -->
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JS -->
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Sticky Sidebar JS -->
+    <script src="assets/plugins/theia-sticky-sidebar/ResizeSensor.js"></script>
+    <script src="assets/plugins/theia-sticky-sidebar/theia-sticky-sidebar.js"></script>
+
+    <!-- Select2 JS -->
+    <script src="assets/plugins/select2/js/select2.min.js"></script>
+
+    <!-- Datetimepicker JS -->
+    <script src="assets/js/moment.min.js"></script>
+    <script src="assets/js/bootstrap-datetimepicker.min.js"></script>
+
+    <!-- Fancybox JS -->
+    <script src="assets/plugins/fancybox/jquery.fancybox.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="assets/js/script.js"></script>
+
+</body>
+
+
+
+</html>

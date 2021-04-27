@@ -1,0 +1,10 @@
+Team Name:
+	Hackoverflow
+Project Name: 
+	HEALTHIFY
+Description: 
+	The HEALTHIFY website acts as a client whereas the database contains the doctor’s details, patient’s details and appointment details.
+	User can create an account and search for available doctors, doctors are suggested to the user on the basis of the details entered by the user like symptoms, location and age.
+  Content of project directory:
+	1. Presentation
+	2. Idea Documentation
