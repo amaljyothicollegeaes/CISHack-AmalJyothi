@@ -1,0 +1,12 @@
+Dory - Your Personal Health Companion App
+
+Dory is the one app that you will ever need to live a healthy life.Patients and Doctors can view all the
+previous medical history.The assistant inbuilt in the app can go through the prescription and remind users
+to take their medicine at the required times.It can also assess people's mental state by the means of data
+collected from smart wearables and also in the means of a chat bot.Users can also directly connect with
+their doctors thtough the connect section and also book an appointment from within the app
+
+Contents :
+Aroha.pptx - Project Presentation
+Aroha.txt - Documentation
+
