@@ -1,0 +1,4 @@
+Project name: Ai based healthcare application
+Team name: Konoha
+Description: Implementing Artificial Intelligence in to the field of health and medical care.
+Database linked AI application with friendly UI.
