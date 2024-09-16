@@ -1,0 +1,8 @@
+Project name: Students' Educational Guide
+Team name: Arrows of Artemis
+Description:The project is a website named Artemis.
+		->Artemis is a hands-on, interactive website.
+		->This works like an all in one application.
+		->There are many features for a student make their career successful.
+		->The website improves the college experience of a student
+		->i.e., it helps the students to keep track of their studies, as well as of their other academic activities like finding a good available workshops/internships with respect of our branch of studies.
